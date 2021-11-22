@@ -1,0 +1,21 @@
+body {
+    background-color: green;
+    color: darkred;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-family: asphalt;
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+}
+
+goals {
+    font-family: fantasy;
+}
